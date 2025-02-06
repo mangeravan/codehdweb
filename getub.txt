@@ -1,9 +1,9 @@
 
 git init
 git add .
-git commit -m "first sbnscommit"
+git commit -m "sbnscommit"
 git branch -M main
-git remote add origin https://github.com/mangeravan/codeaxweb.git
+git remote add origin https://github.com/mangeravan/codehdweb.git
 git push -u origin main
 
 
